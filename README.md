@@ -35,12 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ayush-yadav11/Ayush-yadav11/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="www.linkedin.com/in/ayushyadav2611" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
