@@ -1,12 +1,13 @@
 <br clear="both">
 
-<p align="left">👋 Hi, I'm Ayush Yadav!<br>🚀 B.Tech student passionate about Artificial Intelligence, Data Science, and Electronics<br>🔍 My primary focus: Data Analysis, Machine Learning, and Data Visualization<br>💡 I love solving real-world problems using AI-powered systems and intelligent electronic devices.<br>🌱 Currently enhancing my skills in supervised learning, deep learning, and data-driven decision-making<br>📫 Let's connect!</p>
+<p align="left"> Hi, I'm Ayush Yadav!<br> B.Tech student passionate about Artificial Intelligence, Data Science, and Electronics<br> My primary focus: Data Analysis, Machine Learning, and Data Visualization<br> I love solving real-world problems using AI-powered systems and intelligent electronic devices.<br> Currently enhancing my skills in supervised learning, deep learning, and data-driven decision-making<br> Let's connect!</p>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="center"
+>
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush-yadav11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush-yadav11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
 </div>
