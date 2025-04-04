@@ -1,5 +1,3 @@
-<br clear="both">
-
 ## 👋 Hi, I'm Ayush Yadav!
 
 🎓 **B.Tech Student** passionate about **Artificial Intelligence, Data Science, and Electronics**  
@@ -49,7 +47,8 @@
 
 ## 📬 Let's Connect!
 
-<div align="left">
+<div align
+="left">
   <a href="https://www.linkedin.com/in/ayush-yadav-a9b7a5265/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
