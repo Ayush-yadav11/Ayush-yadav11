@@ -13,10 +13,6 @@
 📚 **Currently Exploring:** Supervised Learning • Deep Learning • Data-Driven Decision Making  
 🤝 **Open to Collaboration & Networking**
 
----
-
-
-
 <p align="center">
   <img src="https://usagif.com/wp-content/uploads/gify/one-piece-anime-usagif-animation-32.gif" height="270" alt="Anime Profile Card])" />
 </p>
@@ -102,6 +98,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/jUnAWY4Ti2ypWE8LaW/source.gif" height="200" alt="Coding GIF" />
-</p>
+
