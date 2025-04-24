@@ -39,8 +39,13 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-yadav11&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ayush-yadav11&theme=dracula
+&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-yadav11&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
 
 ---
 
@@ -48,14 +53,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush-yadav11&theme=dracula&row=1&no-bg=true&margin-w=10&no-frame=true" />
-</p>
-
----
-
-## 👁️ Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-yadav11&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
 ---
