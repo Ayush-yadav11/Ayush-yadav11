@@ -76,9 +76,9 @@
 
 ## 🌟 Featured Projects
 
-- 🚑 **[HeaLink](#)** – AI-powered healthcare solution for underserved communities  
-- 💡 **[ECG Classification](#)** – Deep learning-based model for detecting heart abnormalities  
-- 🤖 **[Fake Review Detection](#)** – AI system to identify fraudulent or biased reviews
+- 🚑 **[HeaLink](https://github.com/Ayush-yadav11/HealLink)** – AI-powered healthcare solution for underserved communities  
+- 💡 **[ECG Classification](https://github.com/Ayush-yadav11/ECG-Classification)** – Deep learning-based model for detecting heart abnormalities  
+- 🤖 **[Fake Review Detection](https://github.com/Ayush-yadav11/FakeReviewDetection)** – AI system to identify fraudulent or biased reviews
 
 ---
 
