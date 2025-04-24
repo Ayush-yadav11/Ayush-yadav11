@@ -15,10 +15,10 @@
 
 ---
 
-## 🧧 Anime Style Profile Card
+
 
 <p align="center">
-  <img src="https://github.com/ayush-yadav11/ayush-yadav11/assets/106896586/08a67ef2-9fd7-4c39-b2b2-8241f6c3432f" height="270" alt="Anime Profile Card" />
+  <img src="[https://github.com/ayush-yadav11/ayush-yadav11/assets/106896586/08a67ef2-9fd7-4c39-b2b2-8241f6c3432f" height="270" alt="Anime Profile Card](https://usagif.com/wp-content/uploads/gify/one-piece-anime-usagif-animation-32.gif)" />
 </p>
 
 ---
