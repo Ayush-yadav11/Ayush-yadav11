@@ -1,10 +1,33 @@
-## 👋 Hi, I'm Ayush Yadav!
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Yadav!;AI+%7C+Data+Science+%7C+Electronics;Let's+build+something+impactful!" alt="Typing SVG" />
+</h1>
 
-🎓 **B.Tech Student** passionate about **Artificial Intelligence, Data Science, and Electronics**  
-🚀 **Primary Focus:** Data Analysis, Machine Learning, and Data Visualization  
-💡 **Passion:** Solving real-world problems using AI-powered systems and intelligent electronic devices  
-📚 **Currently Learning:** Supervised Learning, Deep Learning, and Data-Driven Decision Making  
-🤝 **Let's Connect & Collaborate!**  
+---
+
+## 👨‍💻 About Me
+
+🎓 **B.Tech Student** | Passionate about **Artificial Intelligence, Data Science, and Electronics**  
+🚀 **Focus Areas:** Data Analysis • Machine Learning • Data Visualization  
+💡 **What Drives Me:** Building AI-powered systems & intelligent electronic devices that solve real-world problems  
+📚 **Currently Exploring:** Supervised Learning • Deep Learning • Data-Driven Decision Making  
+🤝 **Open to Collaboration & Networking**
+
+---
+
+## 🧧 Anime Style Profile Card
+
+<p align="center">
+  <img src="https://github.com/ayush-yadav11/ayush-yadav11/assets/106896586/08a67ef2-9fd7-4c39-b2b2-8241f6c3432f" height="270" alt="Anime Profile Card" />
+</p>
+
+---
+
+## 📜 Daily Quote to Keep You Inspired
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote Widget" />
+</p>
 
 ---
 
@@ -17,21 +40,39 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayush-yadav11&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-yadav11&theme=dracula&row=1&no-bg=true&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## 👁️ Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-yadav11&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
+---
+
 ## 🛠 Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 </div>
 
@@ -39,27 +80,28 @@
 
 ## 🌟 Featured Projects
 
-- 🚑 **HeaLink** – AI-powered healthcare solution for underserved communities
-- 💡 **ECG Classification** – Deep learning model for ECG signal analysis
-- 🤖 **Fake Review Detection** – AI model for detecting fraudulent reviews
+- 🚑 **[HeaLink](#)** – AI-powered healthcare solution for underserved communities  
+- 💡 **[ECG Classification](#)** – Deep learning-based model for detecting heart abnormalities  
+- 🤖 **[Fake Review Detection](#)** – AI system to identify fraudulent or biased reviews
 
 ---
 
 ## 📬 Let's Connect!
 
-<div align
-="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/ayush-yadav-a9b7a5265/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?to=aayush123yadav@gmail.com&su=SUBJECT&body=BODY&fs=1&tf=cm">
+  <a href="mailto:aayush123yadav@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/_.aayush_yadav._/#" target="_blank">
+  <a href="https://www.instagram.com/_.aayush_yadav._/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
 
 ---
 
-![Coding GIF](https://media2.giphy.com/media/jUnAWY4Ti2ypWE8LaW/source.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/jUnAWY4Ti2ypWE8LaW/source.gif" height="200" alt="Coding GIF" />
+</p>
