@@ -43,11 +43,6 @@
 &hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-yadav11&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
-
-
 ---
 
 ## 🏆 GitHub Trophies
