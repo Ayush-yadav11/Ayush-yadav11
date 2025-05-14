@@ -36,13 +36,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-yadav11&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-yadav11&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" />
+</div>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-yadav11&theme=dracula
-&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ayush-yadav11&theme=dracula&hide_border=false" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
