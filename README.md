@@ -51,6 +51,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -58,14 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 </div>
-
----
-
-## 🌟 Featured Projects
-
-- 🚑 **[HeaLink](https://github.com/Ayush-yadav11/HealLink)** – AI-powered healthcare solution for underserved communities  
-- 💡 **[ECG Classification](https://github.com/Ayush-yadav11/ECG-Classification)** – Deep learning-based model for detecting heart abnormalities  
-- 🤖 **[Fake Review Detection](https://github.com/Ayush-yadav11/FakeReviewDetection)** – AI system to identify fraudulent or biased reviews
 
 ---
 
