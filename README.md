@@ -55,7 +55,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush-yadav11&theme=dracula&row=1&no-bg=true&margin-w=10&no-frame=true" />
 </div>
 
-> 💡 *If these widgets ever appear broken, it's usually the shared public demo server being rate-limited — not your profile. Self-hosting your own instance on Vercel fixes it for good.*
 
 <br>
 
