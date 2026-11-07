@@ -1,81 +1,113 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=140&section=header&text=Ayush%20Yadav&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Creative%20Technologist&descAlignY=60&descSize=16" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Yadav;AI+%7C+Data+Science+%7C+Electronics+Engineer;Turning+Data+Into+Decisions;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=I+build+intelligent+systems.;Agents+%C2%B7+RAG+%C2%B7+Computer+Vision+%C2%B7+Automation;From+raw+signals+to+shipped+products.;Code+is+my+tool%2C+ideas+are+my+fuel." alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" width="100%" />
+<a href="https://ayush-yadav.me/"><img src="https://img.shields.io/badge/Portfolio-ayush--yadav.me-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayushyadav2611"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aayush123yadav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1rJm0r5yJ5fl1N-MiZWG_R-TVKMB40VaB/view"><img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 
 </div>
 
-<br>
+## 👋 About Me
 
-## 👨‍💻 About Me
+I'm an **AI / ML engineer from Indore, India**. I like taking complicated problems and turning them into systems people can actually use. I studied Electronics & Telecommunication, so I tend to follow a signal all the way up: into data, into models, and into the interfaces people touch.
 
-- 🎓 **B.Tech Student**, passionate about **Artificial Intelligence, Data Science & Electronics**
-- 🚀 **Focus Areas:** Data Analysis · Machine Learning · Data Visualization
-- 💡 **What Drives Me:** Building AI-powered systems and intelligent electronic devices that solve real problems
-- 📚 **Currently Exploring:** Supervised Learning · Deep Learning · Data-Driven Decision Making
-- 🤝 **Open to:** Collaboration, internships, and interesting conversations about tech
+- 🧠 **Now:** freelance AI automation (n8n pipelines, RAG assistants, self-running dashboards), agent reliability, local RAG
+- 💼 **Before:** AI Intern at **CrowdWisdomTrading** (multi-agent CrewAI research, **−40%** manual research) · Jr. Technical Consultant Intern at **HOSHŌ DIGITAL** (Power Platform + .NET pipelines, **−30%** manual reporting)
+- 🎓 **B.Tech, Electronics & Telecommunication**, MITS Gwalior (2022–26)
+- 🤝 **Open to:** full-time AI/ML roles and freelance automation projects, remote or in Indore
 
-<br>
+## 🚀 Featured Projects
 
-## 🛠 Tech Stack & Tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+### [quillrag](https://github.com/Ayush-yadav11/quillrag) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+A single-binary local RAG **MCP server**. MiniLM compiled in, hybrid BM25 + dense retrieval, zero runtime downloads, CI releases for three operating systems.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-<br>
+### [Agent Recovery Runtime](https://github.com/Ayush-yadav11/agent-recovery-runtime) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+A **LangGraph-compatible** reliability layer for agent tool calls: idempotency, verification, and recovery after uncertain side effects.
 
-## 📊 GitHub Stats
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Trove](https://github.com/Ayush-yadav11/trove) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+Search your own files **by meaning**, fully offline.
+
+</td>
+<td width="50%" valign="top">
+
+### [Tern Browser](https://github.com/Ayush-yadav11/tern-browser) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+A light, customizable **Chromium-based browser** with built-in ad blocking, multiple windows, and no AI features.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Player Re-Identification](https://github.com/Ayush-yadav11/Player-Re-Identification-System) ![PyTorch](https://img.shields.io/badge/-YOLOv11-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+YOLOv11 + DeepSORT tracking that keeps player identities through occlusion: **95%+ recovered**, 30% fewer identity mismatches.
+
+</td>
+<td width="50%" valign="top">
+
+### [Real-Time Heart Monitor](https://github.com/Ayush-yadav11/Heart-abnormalities-detection) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+A MAX30102 sensor on an ESP32 feeding heart-abnormality detection and a live Node-RED dashboard. Hardware and models in one loop.
+
+</td>
+</tr>
+</table>
+
+**More:** [HeaLink AI](https://github.com/Ayush-yadav11/HealLink) (GDG Solution Challenge 2025) · [MedVault](https://github.com/Ayush-yadav11/MedVault) (patient-owned records on Solana) · [Arrhythmia Beat Classification](https://github.com/Ayush-yadav11/Arrhythmia-Beat-Classification) (95.5% accuracy) · [Query System](https://github.com/Ayush-yadav11/Query_System) (FastAPI RAG, 1k+ queries/day) · [Fake Review Detection](https://github.com/Ayush-yadav11/FakeReviewDetection)
+
+## 🛠 Tech Stack
+
+**LLM systems**<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+
+**ML & vision**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv11-111F68?style=for-the-badge" />
+
+**Data & MLOps**<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+**Backend & web**<br>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_8_·_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+**Embedded**<br>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+
+## 🏆 Recognition & Certifications
+
+- 🥇 **Finalist, Hacksagon 2025**: national hardware + software hackathon, IEEE Student Branch, ABV-IIITM Gwalior
+- 🌍 **GDG Solution Challenge 2025**: HeaLink AI, an AI health assistant with Gemini assessments, voice input and Hindi translation
+- 📄 **Publication:** *Deep Learning for Arrhythmia Detection Using ECG Signals: a comparative review*
+- 🎖 **NPTEL Elite** (IIT Kanpur) · **Google Data Analytics** · Google Cloud: **Prompt Design in Vertex AI**, **Multimodal RAG**, **Gemini & Imagen**
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-yadav11&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-yadav11&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Ayush-yadav11&theme=dracula&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-yadav11&theme=dracula&hide_border=true" height="180" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-yadav11/Ayush-yadav11/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-yadav11/Ayush-yadav11/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ayush-yadav11/Ayush-yadav11/output/snake.svg" width="100%" />
+</picture>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-yadav11&theme=dracula&row=1&no-bg=true&margin-w=10&no-frame=true" />
-</div>
-
-
-<br>
-
-## 📬 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-yadav-a9b7a5265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aayush123yadav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_.aayush_yadav._/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-yadav11&style=for-the-badge&color=6C63FF" alt="Visitor Count" />
+  <a href="https://www.instagram.com/_.aayush_yadav._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ayush-yadav11&style=flat-square&color=6C63FF" alt="Visitor Count" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
