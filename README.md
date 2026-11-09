@@ -69,7 +69,7 @@ A MAX30102 sensor on an ESP32 feeding heart-abnormality detection and a live Nod
 
 ## 🌐 Live Project Sites
 
-Each project has its own page; the Fake Review detector runs right on its page.
+Each project has its own page, and the fake review detector runs right in your browser.
 
 | Site | What you'll find | Code |
 |---|---|---|
