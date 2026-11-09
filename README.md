@@ -67,7 +67,19 @@ A MAX30102 sensor on an ESP32 feeding heart-abnormality detection and a live Nod
 </tr>
 </table>
 
-**More:** [HeaLink AI](https://github.com/Ayush-yadav11/HealLink) (GDG Solution Challenge 2025) · [MedVault](https://github.com/Ayush-yadav11/MedVault) (patient-owned records on Solana) · [Arrhythmia Beat Classification](https://github.com/Ayush-yadav11/Arrhythmia-Beat-Classification) (95.5% accuracy) · [Query System](https://github.com/Ayush-yadav11/Query_System) (FastAPI RAG, 1k+ queries/day) · [Fake Review Detection](https://github.com/Ayush-yadav11/FakeReviewDetection)
+## 🌐 Live Project Sites
+
+Each project has its own page; the Fake Review detector runs right on its page.
+
+| Site | What you'll find | Code |
+|---|---|---|
+| [**Fake Review Detection**](https://ayush-yadav11.github.io/FakeReviewDetection/) | Paste a review and a model trained on 40,432 reviews scores it right in your browser (88.5% on held-out reviews) | [repo](https://github.com/Ayush-yadav11/FakeReviewDetection) |
+| [**ECG Classification**](https://ayush-yadav11.github.io/ECG-Classification/) | Browse MIT-BIH heartbeats and how a 1D CNN labels them: 94.3% accuracy on 21,892 test beats | [repo](https://github.com/Ayush-yadav11/ECG-Classification) |
+| [**Bitcoin Sentiment & Trading**](https://ayush-yadav11.github.io/Bitcoin_Sentiment_And_Analysis/) | 211,218 Hyperliquid trades set against the Fear & Greed Index, with an interactive chart | [repo](https://github.com/Ayush-yadav11/Bitcoin_Sentiment_And_Analysis) |
+| [**MedVault**](https://ayush-yadav11.github.io/MedVault/) | Patients upload their records and choose which doctors can open each one, by Solana wallet | [repo](https://github.com/Ayush-yadav11/MedVault) |
+| [**HeaLink AI**](https://ayush-yadav11.github.io/HealLink/) | Describe a symptom in English or Hindi and Gemini returns a likely issue, urgency and advice | [repo](https://github.com/Ayush-yadav11/HealLink) |
+
+**More:** [Arrhythmia Beat Classification](https://github.com/Ayush-yadav11/Arrhythmia-Beat-Classification) (95.5% accuracy) · [Query System](https://github.com/Ayush-yadav11/Query_System) (FastAPI RAG, 1k+ queries/day)
 
 ## 🛠 Tech Stack
 
